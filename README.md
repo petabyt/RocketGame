@@ -1,2 +1,1 @@
-# RocketGame
-A rocket game that I failed to finish.
+This is old, see https://github.com/pufflegamerz/OpenSpaceProgram
